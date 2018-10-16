@@ -1,0 +1,7 @@
+Job description
+What you will do
+
+Join an exciting team of actuaries, data scientists and engineers at the forefront of using data to drive decisions at every level of our organization. The insurance industry is undergoing a transformation and you get to be in the driver’s seat of this data-driven, technology revolution.
+You will work on impactful projects that range from predicting customer life-time values and optimizing customer journeys to incorporating novel data sources for building cutting-edge pricing algorithms. You will leverage machine-learning algorithms to automate and predict claim outcomes and find new and innovative ways to impact our customers. This team is exploring the frontiers of the insurance business such as how to harness the data from connected homes and cars to deliver new types of products to customers.
+
+As a data-scientist, you will be part of a dynamic small team with exposure to different business partners and direct influence on future products and innovative solutions. You will propose machine-learning and statistical models for practical applications that impacts millions of customers. You will also mentor and guide your peers in novel approaches and provide peer review for their work. The team has already developed algorithms used in production systems and you will be part of the team that expands the scope of these algorithms. This is your chance to join the InsureTech revolution!
